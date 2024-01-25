@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deals &#8211; QuikMunch</title>
+	<atom:link href="https://m-zayn-abbas.github.io/fastfood/product-category/deals/feed/" rel="self" type="application/rss+xml" />
+	<link>https://m-zayn-abbas.github.io/fastfood</link>
+	<description></description>
+	<lastBuildDate>Mon, 22 Jan 2024 17:18:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Deal 3 ( All Items)</title>
+		<link>https://m-zayn-abbas.github.io/fastfood/product/deal-3-all-items/</link>
+					<comments>https://m-zayn-abbas.github.io/fastfood/product/deal-3-all-items/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 22 Jan 2024 17:06:22 +0000</pubDate>
+				<guid isPermaLink="false">https://m-zayn-abbas.github.io/fastfood/?post_type=product#038;p=241</guid>
+
+					<description><![CDATA[Get a pizza with a burger , fries and a cold drink.]]></description>
+										<content:encoded><![CDATA[<p>Get a pizza with a burger , fries and a cold drink.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://m-zayn-abbas.github.io/fastfood/product/deal-3-all-items/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Deal 2 (Burger and Pizza)</title>
+		<link>https://m-zayn-abbas.github.io/fastfood/product/deal-2-burger-and-pizza/</link>
+					<comments>https://m-zayn-abbas.github.io/fastfood/product/deal-2-burger-and-pizza/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 22 Jan 2024 17:00:18 +0000</pubDate>
+				<guid isPermaLink="false">https://m-zayn-abbas.github.io/fastfood/?post_type=product#038;p=240</guid>
+
+					<description><![CDATA[Get a Burger with a Pizza]]></description>
+										<content:encoded><![CDATA[<p>Get a Burger with a Pizza</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://m-zayn-abbas.github.io/fastfood/product/deal-2-burger-and-pizza/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Deal 1 ( Burger and Drink)</title>
+		<link>https://m-zayn-abbas.github.io/fastfood/product/deal-1-burger-and-drink/</link>
+					<comments>https://m-zayn-abbas.github.io/fastfood/product/deal-1-burger-and-drink/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 22 Jan 2024 16:55:06 +0000</pubDate>
+				<guid isPermaLink="false">https://m-zayn-abbas.github.io/fastfood/?post_type=product#038;p=236</guid>
+
+					<description><![CDATA[Get 1 Burger of Your Choice with a Cold Drink]]></description>
+										<content:encoded><![CDATA[<p>Get 1 Burger of Your Choice with a Cold Drink</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://m-zayn-abbas.github.io/fastfood/product/deal-1-burger-and-drink/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

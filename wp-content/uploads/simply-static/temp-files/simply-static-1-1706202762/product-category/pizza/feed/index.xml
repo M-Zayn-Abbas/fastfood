@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pizza &#8211; QuikMunch</title>
+	<atom:link href="https://m-zayn-abbas.github.io/fastfood/product-category/pizza/feed/" rel="self" type="application/rss+xml" />
+	<link>https://m-zayn-abbas.github.io/fastfood</link>
+	<description></description>
+	<lastBuildDate>Sun, 14 Jan 2024 19:04:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Chicken Supreme</title>
+		<link>https://m-zayn-abbas.github.io/fastfood/product/chicken-supreme/</link>
+					<comments>https://m-zayn-abbas.github.io/fastfood/product/chicken-supreme/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 14 Jan 2024 19:03:03 +0000</pubDate>
+				<guid isPermaLink="false">https://m-zayn-abbas.github.io/fastfood/?post_type=product#038;p=211</guid>
+
+					<description><![CDATA[Love alot of chicken? Try this beast loaded with chicken tikka , olives and veggies.]]></description>
+										<content:encoded><![CDATA[<p>Love alot of chicken? Try this beast loaded with chicken tikka , olives and veggies.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://m-zayn-abbas.github.io/fastfood/product/chicken-supreme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Arabian Delight</title>
+		<link>https://m-zayn-abbas.github.io/fastfood/product/arabian-delight/</link>
+					<comments>https://m-zayn-abbas.github.io/fastfood/product/arabian-delight/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 14 Jan 2024 18:59:11 +0000</pubDate>
+				<guid isPermaLink="false">https://m-zayn-abbas.github.io/fastfood/?post_type=product#038;p=209</guid>
+
+					<description><![CDATA[a creamy pizzza loaded with freshly cooked chicken, olives cheese and mushrooms.]]></description>
+										<content:encoded><![CDATA[<p>a creamy pizzza loaded with freshly cooked chicken, olives cheese and mushrooms.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://m-zayn-abbas.github.io/fastfood/product/arabian-delight/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Veggie Lover</title>
+		<link>https://m-zayn-abbas.github.io/fastfood/product/the-veggie-lover/</link>
+					<comments>https://m-zayn-abbas.github.io/fastfood/product/the-veggie-lover/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 14 Jan 2024 18:51:42 +0000</pubDate>
+				<guid isPermaLink="false">https://m-zayn-abbas.github.io/fastfood/?post_type=product#038;p=204</guid>
+
+					<description><![CDATA[Eat a Healthy veggie pizza]]></description>
+										<content:encoded><![CDATA[<p>Eat a Healthy veggie pizza</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://m-zayn-abbas.github.io/fastfood/product/the-veggie-lover/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Margherita Marvel</title>
+		<link>https://m-zayn-abbas.github.io/fastfood/product/margherita-marvel/</link>
+					<comments>https://m-zayn-abbas.github.io/fastfood/product/margherita-marvel/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 14 Jan 2024 17:18:43 +0000</pubDate>
+				<guid isPermaLink="false">https://m-zayn-abbas.github.io/fastfood/?post_type=product#038;p=163</guid>
+
+					<description><![CDATA[A classic harmony of fresh mozzarella, ripe tomatoes, and fragrant basil on a golden crust.]]></description>
+										<content:encoded><![CDATA[<p>A classic harmony of fresh mozzarella, ripe tomatoes, and fragrant basil on a golden crust.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://m-zayn-abbas.github.io/fastfood/product/margherita-marvel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

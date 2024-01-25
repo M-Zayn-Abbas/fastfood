@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Burger &#8211; QuikMunch</title>
+	<atom:link href="https://m-zayn-abbas.github.io/fastfood/product-category/burger/feed/" rel="self" type="application/rss+xml" />
+	<link>https://m-zayn-abbas.github.io/fastfood</link>
+	<description></description>
+	<lastBuildDate>Mon, 22 Jan 2024 16:17:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Vegetarian Quinoa Burger</title>
+		<link>https://m-zayn-abbas.github.io/fastfood/product/vegetarian-quinoa-burger/</link>
+					<comments>https://m-zayn-abbas.github.io/fastfood/product/vegetarian-quinoa-burger/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 22 Jan 2024 16:17:51 +0000</pubDate>
+				<guid isPermaLink="false">https://m-zayn-abbas.github.io/fastfood/?post_type=product#038;p=227</guid>
+
+					<description><![CDATA[Wholesome plant-based goodness with a quinoa and black bean patty, avocado, lettuce, tomatoes, red onions, and cilantro-lime aioli on a whole-grain bun.]]></description>
+										<content:encoded><![CDATA[<p>Wholesome plant-based goodness with a quinoa and black bean patty, avocado, lettuce, tomatoes, red onions, and cilantro-lime aioli on a whole-grain bun.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://m-zayn-abbas.github.io/fastfood/product/vegetarian-quinoa-burger/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Spicy Southwest Burger</title>
+		<link>https://m-zayn-abbas.github.io/fastfood/product/spicy-southwest-burger/</link>
+					<comments>https://m-zayn-abbas.github.io/fastfood/product/spicy-southwest-burger/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 22 Jan 2024 16:15:50 +0000</pubDate>
+				<guid isPermaLink="false">https://m-zayn-abbas.github.io/fastfood/?post_type=product#038;p=226</guid>
+
+					<description><![CDATA[A fiery fiesta of flavors with a seasoned beef patty, pepper jack cheese, salsa, jalapeños, and guacamole on a chipotle-infused bun.]]></description>
+										<content:encoded><![CDATA[<p>A fiery fiesta of flavors with a seasoned beef patty, pepper jack cheese, salsa, jalapeños, and guacamole on a chipotle-infused bun.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://m-zayn-abbas.github.io/fastfood/product/spicy-southwest-burger/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mushroom Swiss Burger</title>
+		<link>https://m-zayn-abbas.github.io/fastfood/product/mushroom-swiss-burger/</link>
+					<comments>https://m-zayn-abbas.github.io/fastfood/product/mushroom-swiss-burger/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 22 Jan 2024 16:14:12 +0000</pubDate>
+				<guid isPermaLink="false">https://m-zayn-abbas.github.io/fastfood/?post_type=product#038;p=221</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Gourmet delight featuring a beef patty with sautéed mushrooms, melted Swiss cheese, caramelized onions, and truffle aioli on a brioche bun.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Gourmet delight featuring a beef patty with sautéed mushrooms, melted Swiss cheese, caramelized onions, and truffle aioli on a brioche bun.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://m-zayn-abbas.github.io/fastfood/product/mushroom-swiss-burger/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Classic Cheeseburger</title>
+		<link>https://m-zayn-abbas.github.io/fastfood/product/classic-cheeseburger/</link>
+					<comments>https://m-zayn-abbas.github.io/fastfood/product/classic-cheeseburger/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 22 Jan 2024 16:06:48 +0000</pubDate>
+				<guid isPermaLink="false">https://m-zayn-abbas.github.io/fastfood/?post_type=product#038;p=219</guid>
+
+					<description><![CDATA[A timeless favorite with a juicy beef patty, American cheese, lettuce, tomatoes, pickles, and secret sauce on a sesame seed bun.]]></description>
+										<content:encoded><![CDATA[<p>A timeless favorite with a juicy beef patty, American cheese, lettuce, tomatoes, pickles, and secret sauce on a sesame seed bun.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://m-zayn-abbas.github.io/fastfood/product/classic-cheeseburger/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

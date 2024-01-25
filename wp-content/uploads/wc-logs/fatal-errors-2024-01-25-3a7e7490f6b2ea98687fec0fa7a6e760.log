@@ -1,0 +1,4 @@
+2024-01-25T16:38:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\fastfood\wp-content\plugins\elementor\includes\template-library\sources\base.php on line 8
+
+2024-01-25T16:39:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\fastfood\wp-content\plugins\elementor\includes\widgets\image.php on line 4
+
